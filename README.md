@@ -41,6 +41,7 @@ Dragonfire Delights is built using the following technologies:
 - JavaScript
 - jQuery
 - AJAX
+- JSON
 
 ## Features
 
