@@ -1,6 +1,6 @@
 # Dragon Delights
 
-![Dragon Delights Logo](/Users/SHORYARAJ06/Documents/GitHub/Dragonfire-Delights/images/123.png)
+![Dragon Delights Logo](123.png)
 
 Dragon Delights is a responsive website that takes you on a culinary journey, offering a tantalizing experience of Asian cuisine with a modern twist. From mouthwatering signature dishes to a diverse menu, we aim to ignite your senses and leave you craving for more.
 
