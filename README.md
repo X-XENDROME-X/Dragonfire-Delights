@@ -1,8 +1,8 @@
-# Dragon Delights
+# Dragonfire Delights
 
-![Dragon Delights Logo](images/123.png)
+![Dragonfire Delights Logo](images/123.png)
 
-Dragon Delights is a responsive website that takes you on a culinary journey, offering a tantalizing experience of Asian cuisine with a modern twist. From mouthwatering signature dishes to a diverse menu, we aim to ignite your senses and leave you craving for more.
+Dragonfire Delights is a responsive website that takes you on a culinary journey, offering a tantalizing experience of Asian cuisine with a modern twist. From mouthwatering signature dishes to a diverse menu, we aim to ignite your senses and leave you craving for more.
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ We believe that exceptional food is best enjoyed with exceptional service. Our f
 
 ## Technologies Used
 
-Dragon Delights is built using the following technologies:
+Dragonfire Delights is built using the following technologies:
 
 - HTML5
 - CSS3
@@ -54,15 +54,15 @@ Dragon Delights is built using the following technologies:
 
 ## Getting Started
 
-To view the Dragon Delights website locally, follow these steps:
+To view the Dragonfire Delights website locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/dragon-delights.git`
+1. Clone this repository to your local machine using `git clone https://github.com/your-username/dragonfire-delights.git`
 2. Navigate to the project directory.
 3. Open the `index.html` file in your web browser.
 
 ## Contributing
 
-We welcome contributions from the community to improve Dragon Delights. If you have any suggestions, bug fixes, or new features to add, please feel free to open an issue or submit a pull request.
+We welcome contributions from the community to improve Dragonfire Delights. If you have any suggestions, bug fixes, or new features to add, please feel free to open an issue or submit a pull request.
 
 ## License
 
@@ -72,5 +72,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 *Note: Replace `link_to_logo.png` in the above README with the actual path to your website's logo.*
 
-Thank you for visiting Dragon Delights! We hope you enjoy your culinary journey with us. For more information and inquiries, please contact us at [email@example.com](mailto:email@example.com).
-
+Thank you for visiting Dragonfire Delights! We hope you enjoy your culinary journey with us. For more information and inquiries, please contact us at [email@example.com](mailto:email@example.com).
