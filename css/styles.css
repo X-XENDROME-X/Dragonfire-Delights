@@ -341,6 +341,12 @@ h3.menu-item-title {  margin: 0 0 10px;}
   }
 
   .menuimg { width :5%; }
+
+  .awardlogo{
+      width:100%;
+      position: relative;
+      right: 0.1ch;
+  }
 }
 
 
