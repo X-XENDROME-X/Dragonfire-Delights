@@ -56,7 +56,7 @@ Dragonfire Delights is built using the following technologies:
 
 To view the Dragonfire Delights website locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/dragonfire-delights.git`
+1. Clone this repository to your local machine using `git clone https://github.com/X-XENDROME-X/dragonfire-delights.git`
 2. Navigate to the project directory.
 3. Open the `index.html` file in your web browser.
 
