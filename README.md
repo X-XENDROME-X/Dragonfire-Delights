@@ -2,7 +2,7 @@
 
 ![Dragonfire Delights Logo](images/123.png)
 
-Dragonfire Delights is a responsive website that takes you on a culinary journey, offering a tantalizing experience of Asian cuisine with a modern twist. From mouthwatering signature dishes to a diverse menu, we aim to ignite your senses and leave you craving for more.
+Dragonfire Delights is a responsive website that takes you on a culinary journey, offering a tantalizing experience of Asian cuisine with a modern twist. From mouthwatering signature dishes to diverse menu, we aim to ignite your senses and leave you craving for more.
 
 ## Table of Contents
 
