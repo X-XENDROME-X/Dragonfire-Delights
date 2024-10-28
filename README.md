@@ -1,6 +1,7 @@
-# Dragonfire Delights
+<p align="center">
+ <img src="images/123.png" alt="Dragonfire Delights Logo" width="400"/>
+</p>
 
-![Dragonfire Delights Logo](images/123.png)
 
 Dragonfire Delights is a responsive website that takes you on a culinary journey, offering a tantalizing experience of Asian cuisine with a modern twist. From mouthwatering signature dishes to diverse menu, we aim to ignite your senses and leave you craving for more.
 
